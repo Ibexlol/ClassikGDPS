@@ -1,0 +1,188 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),  url(../1.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+.logo img{
+	float: left;
+	width: 150px;
+	height: auto;
+}
+
+.main{
+	max-width: 1200px;
+	margin: auto;
+}
+
+.ModList{
+	position: absolute;
+	top: 10%;
+	left: 48%;
+	transform: translate(-50%, -50%);
+}
+
+.ModList h1{
+	color: #fff;
+	font-size: 70px;
+
+}
+
+.Mods{
+	position: absolute;
+	top: 15%;
+	left: 48%;
+	transform: translate(-50%, -50%);
+}
+
+.Mods h1{
+	color: #fff;
+	font-size: 25px;
+
+}
+
+.Mods1{
+	position: absolute;
+	top: 19%;
+	left: 48%;
+	transform: translate(-50%, -50%);
+}
+
+.Mods1 h1{
+	color: #fff;
+	font-size: 25px;
+
+}
+
+.Mods2{
+	position: absolute;
+	top: 23%;
+	left: 48%;
+	transform: translate(-50%, -50%);
+}
+
+.Mods2 h1{
+	color: #fff;
+	font-size: 25px;
+
+}
+
+.Mods3{
+	position: absolute;
+	top: 27%;
+	left: 48%;
+	transform: translate(-50%, -50%);
+}
+
+.Mods3 h1{
+	color: #fff;
+	font-size: 25px;
+
+}
+
+.Mods4{
+	position: absolute;
+	top: 31%;
+	left: 48%;
+	transform: translate(-50%, -50%);
+}
+
+.Mods4 h1{
+	color: #fff;
+	font-size: 25px;
+
+}
+
+.Mods5{
+	position: absolute;
+	top: 35%;
+	left: 48%;
+	transform: translate(-50%, -50%);
+}
+
+.Mods5 h1{
+	color: #fff;
+	font-size: 25px;
+
+}
+
+.Mods6{
+	position: absolute;
+	top: 39%;
+	left: 48%;
+	transform: translate(-50%, -50%);
+}
+
+.Mods6 h1{
+	color: #fff;
+	font-size: 25px;
+
+}
+
+.Notice{
+	position: absolute;
+	top: 43%;
+	left: 48%;
+	transform: translate(-50%, -50%);
+}
+
+.Notice h1{
+	color: #fff;
+	font-size: 25px;
+
+}
+
+.button{
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.btn{
+	border: 1px solid #fff;
+	padding: 10px 30px;
+	color: #fff;
+	text-decoration: none;
+	transition: 0.6s ease;
+
+}
+
+.btn:hover{
+	background-color: #fff;
+	color: #000;
+}
