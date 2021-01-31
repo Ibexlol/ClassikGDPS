@@ -129,7 +129,7 @@ ul li.active a{
 
 .Mods5{
 	position: absolute;
-	top: 35%;
+	top: 39%;
 	left: 48%;
 	transform: translate(-50%, -50%);
 }
@@ -138,18 +138,6 @@ ul li.active a{
 	color: #fff;
 	font-size: 25px;
 
-}
-
-.Mods6{
-	position: absolute;
-	top: 39%;
-	left: 48%;
-	transform: translate(-50%, -50%);
-}
-
-.Mods6 h1{
-	color: #fff;
-	font-size: 25px;
 
 }
 
